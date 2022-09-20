@@ -1,2 +1,4 @@
 q*
 .venv/
+.gitignore
+quiz_1_venv/
